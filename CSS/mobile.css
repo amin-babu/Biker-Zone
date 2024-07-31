@@ -1,0 +1,178 @@
+@media screen and (max-width:530px) {
+  section{
+    padding: 10px 5%;
+  }
+
+  nav{
+    padding: 10px 5%;
+  }
+  
+  .nav_menu{
+    display: none;
+  }
+
+  .menu{
+    display: block;
+  }
+
+  .menu img{
+    width: 42px;
+  }
+
+  .heading h2{
+    font-size: 22px;
+  }
+
+  .hero{
+    flex-direction: column;
+    padding: 30px 5%;
+    height: auto;
+  }
+
+  .hero_title{
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .hero_title p{
+    font-size: 13px;
+  }
+
+  .hero_title h2{
+    font-size: 35px;
+  }
+
+  .purchase{
+    margin-top: 30px;
+  }
+
+  .news_heading h2{
+    font-size: 37px;
+    margin-bottom: 7px;
+    text-align: left;
+  }
+
+  .heading hr{
+    display: none;
+  }
+
+  .bike_container{
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .news_container{
+    flex-direction: column;
+    gap: 1.2rem;
+  }
+
+  .news_item img{
+    width: 100%;
+  }
+
+  .news_item h3{
+    font-size: 25px;
+  }
+
+  .news_item p{
+    font-size: 19px;
+    line-height: 1.6;
+  }
+
+  .heading{
+    margin-top: 40px;
+  }
+
+  .client{
+    padding: 20px 15px;
+  }
+
+
+  .clients_area h2{
+    margin-top: 40px;
+  }
+
+  .client_container{
+    flex-direction: column;
+  }
+
+  .client > img{
+    width: 130px;
+  }
+
+  .client p{
+    font-size: 20px;
+    margin: 15px 0;
+  }
+
+  .review_icon img{
+    width: 24px;
+  }
+
+  .client h3{
+    font-size: 19px;
+    margin: 15px 0;
+  }
+
+  .client h4{
+    font-size: 16px;
+  }
+
+  .faq_container{
+    flex-direction: column;
+    gap: 3rem;
+  }
+
+  .faq_img img{
+    width: 300px;
+    max-width: 100%;
+  }
+  .faq_left{
+    width: 100%;
+  }
+
+  .faq_qa{
+    padding: 10px 26px 12px 15px;
+  }
+
+  .faq_q h5{
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .faq_qa p{
+    font-size: 14px;
+  }
+
+  footer{
+    flex-direction: column;
+    gap: 2rem;
+    padding: 60px 5% 30px;
+  }
+
+  .footer_left a{
+    font-size: 1.3rem;
+    line-height: 1.8;
+    margin-right: 12px;
+  }
+
+  .footer_right h4{
+    font-size: 18px;
+  }
+
+  .footer_right img{
+    width: 145px;
+  }
+
+  .copy{
+    display: none;
+  }
+
+  .copy2{
+    display: block;
+    font-size: 16px;
+    color: rgb(166, 166, 243);
+    text-align: center;
+    margin: 40px 0 20px;
+  }
+}
